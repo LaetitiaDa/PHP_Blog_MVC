@@ -10,7 +10,7 @@ class Model
     {
         if (is_null($this->pdo))
         {
-            $this->pdo = $this->connect_db('localhost','root','root',3306,'PHP_Rush_MVC');
+            $this->pdo = $this->connect_db();
         }
     }
 
