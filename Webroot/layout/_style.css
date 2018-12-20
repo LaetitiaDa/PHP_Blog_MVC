@@ -1,0 +1,16 @@
+p
+{
+    text-align: center;
+    text-align: justify;
+}
+
+td tr
+{
+    border : solid blue 1px;
+    text-align: center;
+}
+
+th
+{
+    font-weight: bold;
+}
