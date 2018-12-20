@@ -39,15 +39,7 @@ class AppController
         return $path;
     }
 
-    public function beforeRender()
-    {
-        
-    }
-
-    protected function redirect($param)
-    {
-
-    }
+   
 }
 
 ?>
